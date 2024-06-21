@@ -12,3 +12,11 @@ Trabalhando com Vision Studio
 
 - Na página inicial do Vision Studio selecione a aba "Face"
 - Então selecione a opção "Detect faces in an image"
+- Neste serviço é possível testar como ele funciona, isso pode ser visto no print abaixo
+![Print com um rosto de uma mulher sendo reconhecido pelo serviço de detecção de rosto do Vision Studio](./prints/print1.jpg "Teste do serviço de detecção de Rosto")
+
+## Analise de documentos
+- Na página inicial do Vision Studio selecione a aba "Optical character recognition"
+- Então selecione a opção "Extract text from images"
+- - Neste serviço é possível testar como ele funciona, isso pode ser visto no print abaixo
+![Print com uma imagem de um documento sendo reconhecido pelo serviço de detecção de ópitica de caracteres do Vision Studio](./prints/print2.jpg "Teste do serviço de detecção de caracteres")
