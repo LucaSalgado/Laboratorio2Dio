@@ -18,11 +18,11 @@ Trabalhando com Vision Studio
 ## Analise de documentos
 - Na página inicial do Vision Studio selecione a aba "Optical character recognition"
 - Então selecione a opção "Extract text from images"
-- - Neste serviço é possível testar como ele funciona, isso pode ser visto no print abaixo
+- Neste serviço é possível testar como ele funciona, isso pode ser visto no print abaixo
 ![Print com uma imagem de um post-it tendo seu texto reconhecido pelo serviço de detecção de ópitica de caracteres do Vision Studio](./prints/print2.jpg "Teste do serviço de detecção de caracteres")
 
 ## Adicionar legendas a imagnes
 - Na página inicial do Vision Studio selecione a aba "Image analysis"
 - Então selecione a opção "Add captions to images"
-- - Neste serviço é possível testar como ele funciona, isso pode ser visto no print abaixo
+- Neste serviço é possível testar como ele funciona, isso pode ser visto no print abaixo
 ![Print com uma imagem de um grupo de vacas sendo reconhecido pelo serviço de adição de legendas do Vision Studio](./prints/print3.jpg "Teste do serviço de detecção de caracteres")
